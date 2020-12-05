@@ -1,0 +1,12 @@
+#toast-container > div {
+ opacity:  1;
+ width: 456px;
+ 
+}
+.toast-success {
+        background-color: 
+
+}
+
+
+}
